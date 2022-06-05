@@ -1,6 +1,11 @@
 header{
     background-color: darkblue;
     color: goldenrod;
+    text-align: center;
+}
+
+main{
+    background-color: lightgray;
 }
 
 
